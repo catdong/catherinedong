@@ -10,6 +10,20 @@
 /* FitText Settings
 ------------------------------------------------------ */
 
+    $(window).load(function() {
+
+    // will first fade out the loading animation 
+      $("#status").fadeOut("slow"); 
+
+      // will fade out the whole DIV that covers the website. 
+      $("#preloader").delay(500).fadeOut("slow")
+
+    }) 
+
+/*----------------------------------------------------*/
+/* FitText Settings
+------------------------------------------------------ */
+
     setTimeout(function() {
 	   $('h1.responsive-headline').fitText(1, { minFontSize: '40px', maxFontSize: '90px' });
 	 }, 100);
