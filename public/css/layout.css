@@ -42,9 +42,9 @@ body { background: #3aa9ac; }
    position: absolute;
    left: 50%;
    top: 50%;
-   width: 64px;
-   height: 64px;
-   margin: -32px 0 0 -32px;  
+   width: 40px;
+   height: 40px;
+   margin: -20 0 0 -20px;  
    padding: 0;    
 }
 
@@ -57,7 +57,7 @@ header {
    /*height: 50%;*/
 /*   min-height: 500px;
 */   width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #3aa9ac url(../images/header-background.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
