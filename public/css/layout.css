@@ -158,7 +158,8 @@ header .scrolldown a:hover { color: #3aa9ac; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { 
-  display: none; 
+  display: none;
+  background-color:  #3aa9ac;
 }
 
 ul#nav {
