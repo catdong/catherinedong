@@ -28,7 +28,7 @@ body { background: #3aa9ac; }
 /* b. Preloader
  ------------------------------------------------------------------ */
 
-#preloader  {
+/*#preloader  {
    position: fixed;
    top: 0;
    left: 0;
@@ -46,7 +46,7 @@ body { background: #3aa9ac; }
    height: 40px;
    margin: -20 0 0 -20px;  
    padding: 0; 
-}
+}*/
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
