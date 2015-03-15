@@ -238,7 +238,7 @@ ul#nav li.current a { color: #3aa9ac; }
 }
 
 #about a, #about a:visited  { color: #3aa9ac; }
-#about a:hover, #about a:focus { color: #3aa9ac; }
+#about a:hover, #about a:focus { color: #444; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -491,7 +491,7 @@ ul#nav li.current a { color: #3aa9ac; }
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
-   margin-bottom: 48px;
+   margin-bottom: 25px;
    color: #95A3A3;
 }
 
@@ -584,7 +584,7 @@ ul#nav li.current a { color: #3aa9ac; }
 
 /* popup modal */
 .popup-modal {
-	max-width: 550px;
+	max-width: 700px;
 	background: #fff;
 	position: relative;
 	margin: 0 auto;
