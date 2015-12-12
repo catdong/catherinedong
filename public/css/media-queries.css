@@ -14,7 +14,8 @@
     /* header styles
    ------------------------------------------------------------------ */
    header .banner-text h1 {
-      font: 80px/1.1em 'opensans-bold', sans-serif;
+      font: 80px/1.1em 'Glegoo', serif;
+      font-weight: bold;
       letter-spacing: -1px;
       margin: 0 auto 12px auto;
    }
@@ -29,7 +30,8 @@
    ------------------------------------------------------------------ */
    header .banner { padding-bottom: 12px; }
    header .banner-text h1 {
-      font: 78px/1.1em 'opensans-bold', sans-serif;
+      font: 78px/1.1em 'Glegoo', serif;
+      font-weight: bold;
       letter-spacing: -1px;      
    }
    header .banner-text h3 {
@@ -42,7 +44,8 @@
    }
    /* nav-wrap */
    #nav-wrap {
-      font: 11px 'opensans-bold', sans-serif;
+      font: 11px 'Glegoo', serif;
+      font-weight: bold;
       letter-spacing: 1.5px;
    }
 
@@ -59,7 +62,11 @@
 
    /* Resume Section
    ------------------------------------------------------------------- */
-   #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
+   #resume h1 { 
+      font: 16px/24px 'Glegoo', serif; 
+      font-weight: bold;
+      padding-left: 0px;
+   }
    #resume .main-col { padding-right: 5%; }   
 
    /* Testimonials Section
@@ -100,7 +107,8 @@
    /* mobile navigation
    -------------------------------------------------------------------- */
    #nav-wrap {
-      font: 12px 'opensans-bold', sans-serif;
+      font: 12px 'Glegoo', serif;
+      font-weight: bold;
       background: transparent !important;
       letter-spacing: 1.5px;  
       width: auto;
@@ -191,7 +199,8 @@
       padding-bottom: 12px;
       padding-top: 6px;
    }
-   header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
+   header .banner-text h1 { font: 68px/1.1em 'Glegoo', serif; }
+   font-weight: bold;
    header .banner-text h3 {
       font: 16px/1.9em 'librebaskerville-regular', serif;
       width: 85%;
@@ -242,7 +251,8 @@
    /* ----------------------------------------------------------------- */
    #call-to-action { text-align: center; }
    #call-to-action h1 {
-      font: 16px/24px 'opensans-bold', sans-serif;
+      font: 16px/24px 'Glegoo', serif;
+      font-weight: bold;
       text-align: center;
       margin-bottom: 30px;
       text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
@@ -262,7 +272,8 @@
    ----------------------------------------------------------------------- */
    #testimonials .text-container { text-align: center; }
    #testimonials h1 {
-      font: 16px/24px 'opensans-bold', sans-serif;
+      font: 16px/24px 'Glegoo', serif;
+      font-weight: bold;
       text-align: center;
       margin-bottom: 30px;
       text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
@@ -287,7 +298,8 @@
    #contact { padding-bottom: 66px; }
    #contact .section-head { margin-bottom: 12px; }
    #contact .section-head h1 {
-      font: 16px/24px 'opensans-bold', sans-serif;            
+      font: 16px/24px 'Glegoo', serif;            
+      font-weight: bold;
       text-align: center;   
       margin-bottom: 30px;
       text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
@@ -351,7 +363,8 @@
    -------------------------------------------------------------------- */
    header .banner { padding-top: 24px; }
    header .banner-text h1 {
-      font: 40px/1.1em 'opensans-bold', sans-serif;      
+      font: 40px/1.1em 'Glegoo', serif;      
+      font-weight: bold;
       margin: 0 auto 24px auto;
    }
    header .banner-text h3 {

@@ -79,7 +79,7 @@
 /* equal to the browser height.
 ------------------------------------------------------ */
 
-   $('header').css({ 'height': $(window).height()*0.6 });
+   $('header').css({ 'height': $(window).height()*0.35});
    $(window).on('resize', function() {
 
         $('header').css({ 'height': $(window).height()*0.6 });
