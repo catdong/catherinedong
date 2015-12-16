@@ -82,7 +82,7 @@
    $('header').css({ 'height': $(window).height()*0.35});
    $(window).on('resize', function() {
 
-        $('header').css({ 'height': $(window).height()*0.35 });
+        $('header').css({ 'height': $(window).height()*0.6 });
         $('body').css({ 'width': $(window).width() })
    });
 
